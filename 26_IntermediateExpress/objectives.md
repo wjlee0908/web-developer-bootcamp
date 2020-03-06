@@ -31,7 +31,7 @@
 * Write post routes, and test them with Postman
 	* `app.post("/url", function)`
 * Use a form to send a post request
-	* `<form action="/url", method="POST">`
+	* `<form action="/url", method="POST">` : method = http verb(post, get...)
 	* `<input name="varName" ~` : name used in request body
 	* `res.redirect("/url")` : go back to url route from post route
 * Use a body parser to get form data
