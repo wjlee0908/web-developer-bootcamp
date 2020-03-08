@@ -1,5 +1,5 @@
 # YelpCamp
-* Add Landing Pge
+* Add Landing Page
 * Add Campgrounds that lists all campgrounds
 
 Each Campground has:
